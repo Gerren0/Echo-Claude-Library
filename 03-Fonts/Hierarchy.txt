@@ -1,0 +1,9 @@
+Link - Sharp Grotesk Medium 12pt/1rem #0a3eac/#083085
+H1 - Sharp Grotesk Book 30pt/2.5rem #27272d
+H2 - Sharp Grotesk Book 24pt/2rem #27272d
+H3 - Sharp Grotesk Book 21pt/1.75rem #051B4C
+H4 - Sharp Grotesk Book 18pt/1.5rem #27272d
+H5 - Sharp Grotesk Book 15pt/1.25rem #27272d
+H6 - Sharp Grotesk Book 12pt/1rem #27272d
+P - Inter Regular 12pt/1rem #5A5B67
+Btn - Inter Bold 12pt/1rem 
